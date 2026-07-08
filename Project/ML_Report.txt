@@ -1,0 +1,22 @@
+======================================================================
+GROUNDWATER QUALITY MACHINE LEARNING REPORT
+======================================================================
+
+Generated : 2026-07-08 22:37:01.285432
+
+Total Samples : 50
+Total Parameters : 25
+
+Machine Learning Models Used
+-----------------------------
+1. Linear Regression
+2. Decision Tree
+3. Random Forest
+4. Support Vector Regression
+
+Best Model
+-----------------------------
+Random Forest
+R2 Score : 0.7575233658357361
+RMSE : 0.3409064658945925
+MAE : 0.26611175197883374
